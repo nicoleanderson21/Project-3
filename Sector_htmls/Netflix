@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon</title>
+</head>
+
+<body>
+
+  <!-- Header -->
+  <h1>Netflix</h1>
+
+  <!-- Image -->
+  <img src="https://" alt="stockmarket" />
+  <br />
+
+  <!-- Paragraph -->
+  <p>Research Questions</p>
+
+    <!-- Link with New Tab -->
+    <a href="file:///Users/NicoleAnderson/Documents/GitHub/Project-3/html%20copy.html" target="_blank">Opens new tab</a>
+    <br />
+  
+    <!-- Bold Link -->
+    <strong><a href="https://www.youtube.com">bold link</a></strong>
+    <br />
+  
+    <!-- Placeholder link -->
+    <a href="#">placeholder link</a>
+
+</body>
+
+</html>
