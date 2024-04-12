@@ -1,5 +1,5 @@
 ***
-# HG-Precious Metals vs Cryptocurrencies analysis- [Hugo_analysis](https://github.com/nicoleanderson21/Project-3/blob/main/Hugo_analysis.ipynb) README
+# Precious Metals vs Cryptocurrencies analysis- [Hugo_analysis](https://github.com/nicoleanderson21/Project-3/blob/main/Hugo_analysis.ipynb) README
 
 ## Introduction
 
