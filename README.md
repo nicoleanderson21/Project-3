@@ -14,6 +14,25 @@ The code used to answer each of the 4 research questions can be found in the 4 p
 Our data was stored in a sqlite database. We chose this because
 
 # ETL Workflow
+- Data Source
+ The data for this analysis was sourced from a dataset of US stock market data from 2019 to 2024 available on Kaggle. We implemented a ETL workflow to ensure data integrity and accessibility for all team members, which is detailed as follows:
+
+- Extract
+
+ The dataset was initially downloaded as stock_market_data.csv from the following Kaggle dataset: [2019-2024 US Stock Market Data](https://www.kaggle.com/datasets/saketk511/2019-2024-us-stock-market-data).
+
+- Transform
+
+ We transformed the CSV data by:
+     Cleaning: Removal of irrelevant data, handling missing or erroneous values.
+     Selection: Filtering the dataset to include only the relevant stocks relative to each analysis
+
+- Load
+
+ The transformed data was then loaded into a market.sqlite database, providing a centralized and consistent data source.
+ Each team member used this SQLite database to perform their analysis, ensuring uniformity across individual notebooks and analyses.
+
+
 
 # Ethical Considerations
 
