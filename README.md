@@ -40,7 +40,7 @@ The data is stored in a sqlite database. We chose this because, along with our c
 
 
 # Ethical Considerations
-
+We made sure to handle data and analyze it in a fair and moral way. We were transparent by giving credit to websites and sources whenever we used their information. This helped us show respect to the people who originally created the data or ideas we used. We wanted to be honest and accountable, so we included clear references to where we got our information from. This allowed others to check and confirm that our findings were trustworthy.
 # Data References
 
 The dataset used for this project was the "2019-2024 US Stock Market Data" csv file found on kaggle.
