@@ -11,7 +11,7 @@ This project aims to use stock market data over the last 5 years across various 
 
 # Instructions
 
-The code used to answer each of the 4 research questions can be found in the 4 python files: "nicole_analysis.ipynb", "Hugo_analysis.ipynb", _, and _. The original csv and sqlite file can be found in the "Resources" folder, labeled "stock_market_data.csv" and "market.sqlite". The user-driven interaction element can be found in the html file labeled "main.html". Once downloaded and opened, it will take the user to a web page in which several links are available that open separate pages filled with our findings. The code for these html files, as well as the images on these pages, can be found in the "sector_htmls" folder and "Images" folder respectively.
+The code used to answer each of the 4 research questions can be found in the 4 python files: "nicole_analysis.ipynb", "Hugo_analysis.ipynb", "Soubhadra_analysis", and _. The original csv and sqlite file can be found in the "Resources" folder, labeled "stock_market_data.csv" and "market.sqlite". The user-driven interaction element can be found in the html file labeled "main.html". Once downloaded and opened, it will take the user to a web page in which several links are available that open separate pages filled with our findings. The code for these html files, as well as the images on these pages, can be found in the "sector_htmls" folder and "Images" folder respectively.
 
 # Documentation of the Database
 
