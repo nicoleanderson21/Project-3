@@ -14,8 +14,6 @@ The code used to answer each of the 4 research questions can be found in the 4 p
 Our data was stored in a sqlite database. We chose this because
 
 # ETL Workflow
-- Data Source
- The data for this analysis was sourced from a dataset of US stock market data from 2019 to 2024 available on Kaggle. We implemented a ETL workflow to ensure data integrity and accessibility for all team members, which is detailed as follows:
 
 - Extract
 
