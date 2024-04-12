@@ -29,8 +29,8 @@ The data is stored in a sqlite database. We chose this because, along with our c
 - Transform
 
    We transformed the CSV data by:
-     Cleaning: Removal of irrelevant data, handling missing or erroneous values.
-     Selection: Filtering the dataset to include only the relevant stocks relative to each analysis
+     - Cleaning: Removal of irrelevant data, handling missing or erroneous values.
+     - Selection: Filtering the dataset to include only the relevant stocks relative to each analysis
 
 - Load
 
