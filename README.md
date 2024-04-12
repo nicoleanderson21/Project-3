@@ -9,7 +9,8 @@ This anlaysis summarizes a detailed study that compares how well cryptocurrencie
 
 The analysis is supported by visual aids, which include the following charts:
 
-- `cryptocurrencies_price_trendline.png` - A graph displaying the price trend lines of Bitcoin and Ethereum over the observed period.
+![cryptocurrencies_price_trendline.png]([**https://example.com/image.jpg**](https://github.com/nicoleanderson21/Project-3/blob/hugo_branch/Sector_htmls/Images/cryptocurrencies_price_trendline.png?raw=true))
+ - A graph displaying the price trend lines of Bitcoin and Ethereum over the observed period.
 - `metals_price_trendline.png` - A graph illustrating the price trend lines of Gold and Silver over time.
 - `ROI_Comparison_Cryptocurrencies.png` - A line graph showing the yearly ROI of Bitcoin and Ethereum.
 - `ROI_Comparison_Precious_Metals.png` - A line graph depicting the yearly ROI of Gold and Silver.
