@@ -19,18 +19,16 @@ The data is stored in a sqlite database. We chose this because, along with our c
 
 # ETL Workflow
 
-- Data Source
- The data for this analysis was sourced from a dataset of US stock market data from 2019 to 2024 available on Kaggle. We implemented a ETL workflow to ensure data integrity and accessibility for all team members, which is detailed as follows:
-
 - Extract
 
 The dataset was initially downloaded as stock_market_data.csv from the following Kaggle dataset: [2019-2024 US Stock Market Data](https://www.kaggle.com/datasets/saketk511/2019-2024-us-stock-market-data).
 Here is the Entity Relationship Diagram of the stock market data after conversion of csv into sqlite file.
+
 ![ERD_market.png](Sector_htmls/Images/ERD_market.png)
 
 - Transform
 
- We transformed the CSV data by:
+   We transformed the CSV data by:
      Cleaning: Removal of irrelevant data, handling missing or erroneous values.
      Selection: Filtering the dataset to include only the relevant stocks relative to each analysis
 
