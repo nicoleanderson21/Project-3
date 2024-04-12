@@ -15,22 +15,6 @@ The data is stored in a sqlite database. We chose this because, along with our c
 
 # ETL Workflow
 
-- Extract
-
- The dataset was initially downloaded as stock_market_data.csv from the following Kaggle dataset: [2019-2024 US Stock Market Data](https://www.kaggle.com/datasets/saketk511/2019-2024-us-stock-market-data).
-
-- Transform
-
- We transformed the CSV data by:
-     Cleaning: Removal of irrelevant data, handling missing or erroneous values.
-     Selection: Filtering the dataset to include only the relevant stocks relative to each analysis
-
-- Load
-
- The transformed data was then loaded into a market.sqlite database, providing a centralized and consistent data source.
- Each team member used this SQLite database to perform their analysis, ensuring uniformity across individual notebooks and analyses.
-
-
 
 # Ethical Considerations
 
