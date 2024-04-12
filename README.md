@@ -10,17 +10,17 @@ This anlaysis summarizes a detailed study that compares how well cryptocurrencie
 The analysis is supported by visual aids, which include the following charts:
 
 ![cryptocurrencies_price_trendline.png](Sector_htmls/Images/cryptocurrencies_price_trendline.png)
- - A graph displaying the price trend lines of Bitcoin and Ethereum over the observed period.
+- A graph displaying the price trend lines of Bitcoin and Ethereum over the observed period.
 ![metals_price_trendline.png](Sector_htmls/Images/metals_price_trendline.png)
 - A graph illustrating the price trend lines of Gold and Silver over time.
 ![ROI_Comparison_Cryptocurrencies.png](Sector_htmls/Images/ROI_Comparison_Cryptocurrencies.png)
 - A line graph showing the yearly ROI of Bitcoin and Ethereum.
 ![ROI_Comparison_Precious_Metals.png](Sector_htmls/Images/ROI_Comparison_Precious_Metals.png)
 - A line graph depicting the yearly ROI of Gold and Silver.
-![silver_price_trendline.png](Sector_htmls/Images/silver_price_trendline.png)
-- A focused view of the price trend line of Silver.
 ![Volatility_Comparison.png](Sector_htmls/Images/Volatility_Comparison.png)
 - A bar chart comparing the volatility (standard deviation of returns) of all four assets.
+![silver_price_trendline.png](Sector_htmls/Images/silver_price_trendline.png)
+- A focused view of the price trend line of Silver.
 
 ## Analysis Results
 
