@@ -34,8 +34,8 @@ Here is the Entity Relationship Diagram of the stock market data after conversio
 
 - Load
 
- The transformed data was then loaded into a market.sqlite database, providing a centralized and consistent data source.
- Each team member used this SQLite database to perform their analysis, ensuring uniformity across individual notebooks and analyses.
+    The transformed data was then loaded into a market.sqlite database, providing a centralized and consistent data source.
+    Each team member used this SQLite database to perform their analysis, ensuring uniformity across individual notebooks and analyses.
 
 
 
