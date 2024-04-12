@@ -38,6 +38,9 @@ The analysis is supported by visual aids, which include the following charts:
 
 ## Conclusion
 
-The study shows that cryptocurrencies and precious metals behave very differently when it comes to investing. Precious metals, Gold and Silver are stable and good for protecting wealth. On the other hand, cryptocurrencies like Bitcoin and Ethereum offer potential for big returns but come with higher risk due to their volatility.
-Regarding limitations, it's important to note that we only looked at these assets for a few years, so we're only seeing a small part of the bigger picture. Additionally, we focused on the most popular metals and cryptocurrencies, but there are others out there that could tell a different story. Factors like major news events and economic changes could also impact these values, which we didn't include in our analysis.
+The study reveals clear differences between precious metals and cryptocurrencies in how they perform as investments. Gold and Silver are shown to be stable assets for preserving wealth. For example, Gold consistently increased by around $0.45 annually, while Silver had a more modest growth rate of approximately $0.01 per year.
+
+In contrast, cryptocurrencies like Bitcoin and Ethereum are much more volatile. Bitcoin, for instance, saw a huge return of 315.52% in 2020, but then dropped sharply to -64.23% in 2022. Similarly, Ethereum had a significant ROI of 478.61% in 2020 but dropped to -68.13% in 2022. These fluctuations highlight the risky nature of cryptocurrencies compared to precious metals.
+
+However, it's important to acknowledge the study's limitations. We only looked at a short period, which may not capture the full picture of market trends. Additionally, our analysis focused mainly on popular metals and cryptocurrencies, potentially overlooking differences in lesser-known assets. External factors like major news events and economic changes could also affect asset values, factors not included in our study.
 ***
