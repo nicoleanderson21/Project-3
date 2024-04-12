@@ -11,7 +11,7 @@ The code used to answer each of the 4 research questions can be found in the 4 p
 
 # Documentation of the Database
 
-Our data was stored in a sqlite database. We chose this because
+The data is stored in a sqlite database. We chose this because, along with our comfrotability skill-wise, it is stable, compatible, fast, and easy to work with. The database file format is cross-platform, so we were able to upload our csv file directly without having to manually edit data types or headers, and could easily create and engine to communicate with the database in python.
 
 # ETL Workflow
 
