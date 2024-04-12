@@ -3,7 +3,11 @@ Stock Market Analysis 2019-2024
 
 # Project Overview
 
-This project aims to 
+This project aims to use stock market data over the last 5 years across various sectors to find trends that can be used by inivestors, traders, etc. to influence and aid in their decision-making processes. Our findings in particular relate primarily to stock price and trading volume over time. These are the research question our project aims to answer:
+   1. How are the stock prices and trading volumes of big tech companies related and how do they change over time?
+   2. How does the change in federal reserve interest rates affect the SP500 stock price?
+   3. How does more volume, affect buyers and shareholders and the Price of the stock?
+   4. How do the volatilities of returns from precious metals and cryptocurrencies compare over time?
 
 # Instructions
 
